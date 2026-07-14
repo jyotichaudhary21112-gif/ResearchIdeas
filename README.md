@@ -15,3 +15,10 @@ My research is fueled by three core questions that define my enthusiasm:
 This repository captures the derivations, simulation workflows, and theoretical frameworks that attempt to answer these questions.
 
 ---
+### 📖 Literature Review
+I am currently referencing these foundational papers for my research on solidification and DFT:
+
+* **[Paper Title 1](literature/paper1.pdf)**: This paper covers the fundamentals of phase equilibrium in unary systems.
+* **[Paper Title 2](literature/paper2.pdf)**: Essential reading for understanding grain boundary corrosion mechanisms in transition metals.
+
+> **Note:** If the paper is public, it is often better to provide a link to the [DOI (Digital Object Identifier)](https://doi.org/) instead of the PDF to ensure you are respecting copyright and providing the latest version.
